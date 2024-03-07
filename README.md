@@ -4,6 +4,13 @@
 I am currently a third-year Pure Math and  Computer Scientist student at Florida State University, passionate about exploring the world of coding,  in particular machine learning, and building robust back-end application
 
 
+# 🔭 What I'm up to:
+
+- 🔭 I’m currently working on Deep Learning Models with Keras and Pytorch
+- 🌱 I’m currently learning different techniques for regularization and optimization for Deep Learning Algorithms.
+- 👯 I’m looking to collaborate on Back-End and Machine Learning Projects 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pietro-candiani/) 
 
