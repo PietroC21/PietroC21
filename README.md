@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am currently a third-year Pure Math and  Computer Scientist student at Florida State University, passionate about exploring the world of coding,  in particular machine learning, and building robust back-end application
+I am currently a fourth-year Pure Math and Computer Science student at Florida State University, passionate about exploring the world of coding,  in particular machine learning, and building robust back-end application
 
 
 # 🔭 What I'm up to:
