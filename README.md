@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am currently a fourth-year Pure Math and Computer Science student at Florida State University, passionate about exploring the world of coding,  in particular machine learning, and building robust back-end application
+I am currently an incoming student at the University of Chicago pursuing a master in Financial Mathematics, passionate about exploring the iintersection of math, coding, and finance, in particular I have an intrest in machine learning, and Quantitative Finance startegies.
 
 
 # 🔭 What I'm up to:
 
-- 🔭 I’m currently working on Deep Learning Models with Keras and Pytorch
+- 🔭 I’m currently working on a Quant strategy known as Pairs Trading.
 - 🌱 I’m currently learning different techniques for regularization and optimization for Deep Learning Algorithms.
-- 👯 I’m looking to collaborate on Back-End and Machine Learning Projects 
+- 👯 I’m looking to collaborate on Quantiative Finance projects.
 
 
 ## 🌐 Socials:
